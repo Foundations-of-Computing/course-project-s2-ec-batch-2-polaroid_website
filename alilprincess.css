@@ -1,0 +1,48 @@
+h1{
+    font-size:90px; font-family:'Playfair Display',serif;color:white;
+        margin:0;
+    }
+ h3{
+     font-size: 30px;color: white;
+             margin:0;
+ }
+ 
+ 
+     p{
+        font-size:18px;font-family:'Playfair Display',serif; color:white;
+      }
+      header {
+     
+     scroll-behavior:smooth;
+     height: 100vh;
+     background-image: url('alp.jpg');
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+      }
+      .main{
+         width: 100%;
+      }
+      .full-sec {
+         position: relative;
+         width:100%;
+         height: 100vh;
+         background: url('alilprincess.jpg') no-repeat center center/cover;
+         overflow: auto;
+      }
+      .full-sec .over-coat {
+         position:absolute;
+         top: 0;
+         left:0;
+         width: 100%;
+         height: 100%;
+         background-color: rgba(0,0,0,0.4);
+         z-index: 1;
+      }
+      .full-sec .contents {
+         color: white;
+         position: relative;
+         z-index: 2;
+         text-align: left;
+         padding: 20px;
+      }
