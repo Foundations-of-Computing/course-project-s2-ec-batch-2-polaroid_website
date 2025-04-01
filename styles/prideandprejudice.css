@@ -23,7 +23,7 @@ h2,p{
 
   .fullscreen-image{
      
-  background-image: url('prejudice.jpg'); /* Replace with your image path */
+  background-image: url('images/prejudice.jpg'); /* Replace with your image path */
   background-size: cover;  /* Ensures it covers the whole page */
   background-position: center; /* Centers the image */
   background-repeat: no-repeat; /* Prevents repetition */
@@ -62,7 +62,7 @@ h2,p{
   height: 200vh; /* Makes it a full page */
   background-color: white; /* Change background as needed */
   padding:0;
-  background-image: url('pre.jpg'); /* Replace with your image */
+  background-image: url('images/pre.jpg'); /* Replace with your image */
   background-size: cover; /* Cover the whole section */
   background-position: top; /* Center the image */
   
