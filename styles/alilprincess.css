@@ -15,7 +15,7 @@ h1{
      
      scroll-behavior:smooth;
      height: 100vh;
-     background-image: url('alp.jpg');
+     background-image: url('images/alp.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      background-attachment: fixed;
@@ -27,7 +27,7 @@ h1{
          position: relative;
          width:100%;
          height: 100vh;
-         background: url('alilprincess.jpg') no-repeat center center/cover;
+         background: url('images/alilprincess.jpg') no-repeat center center/cover;
          overflow: auto;
       }
       .full-sec .over-coat {
